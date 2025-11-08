@@ -144,4 +144,5 @@ int main() {
     printf("Your Final Score: %d out of %d\n", score, TOTAL_QUESTIONS);
 
     return 0;
-}s
+
+}
